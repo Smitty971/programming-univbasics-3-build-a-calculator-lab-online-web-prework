@@ -1,4 +1,7 @@
 def addition(num1, num2)
+  num1 = 5
+  num2 = 9
+  puts #{5 +9}
 
 end
 
